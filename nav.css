@@ -1,0 +1,120 @@
+
+.container{
+    position: fixed;
+    width: auto;
+    height: 70px;
+}
+.dropdown{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+
+ 
+}
+.drop{
+    float: left;
+    background-color: black;
+}
+.li first{
+    color:white;
+    background-color: black;
+    display: block;
+}
+
+.nav1{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    width: auto;
+    height: 60px;
+    position: sticky;
+    top: 0%;
+    overflow: auto;
+  
+}
+
+.css{
+    float: left;
+    background-color: black;
+
+    
+    
+}
+.css:hover{
+    background-color: green;
+}
+ a{
+    display: block;
+padding: 15px;
+   
+    color: white;
+    text-decoration: none;
+}
+.nav2{
+    list-style: none;
+    margin-right: 0%;
+    padding: 0%;}
+
+
+  
+.html{
+    background-color:#605d5d;
+    margin-left: 0%;
+    margin-right: 87%;
+    display: block;     
+}
+.html:hover{
+    background-color:green;
+}
+.para{
+    position: relative;
+}
+h1{
+    position: absolute;
+    top: -720px;
+    left: 300px;
+}
+h3{
+    position: absolute;
+    top:-650px;
+    left: 200px;
+    margin-left:5%;
+    background-color: green;
+    border: green;
+    padding: 10px;
+
+    
+}
+.next{
+    position: absolute;
+    top:-650px;
+    left: 80%;
+    background-color: green;
+    border: green;
+    padding: 10px;
+
+}
+p{
+    position: absolute;
+    top: -570px;
+    left: 200px;
+    background-color: #D9EEE1;
+    border-left: none;
+    padding: 40px;
+    margin: 40px;
+    margin-left:-52 px;
+     width:40% ;
+     height: 150px;
+    line-height: 1.6;
+
+}
+.R27{
+    color: black;
+    border: rgb(3, 101, 3);
+    background-color: rgb(3, 72, 3);
+    font-size: 22PX;
+    margin-bottom: 0%;
+    margin-right: 60%;
+    padding: 10PX;
+    
+}

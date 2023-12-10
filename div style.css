@@ -1,0 +1,258 @@
+.div1{
+    border: 1px solid red;
+    background-color: rgb(245, 245, 245);
+    height: 60px;  
+    width: auto;
+    
+}
+.h{
+width: 35px;
+height: 35px;
+}
+
+.blog1{
+    text-align:right;
+    float: right;
+    text-decoration-line: none;
+    
+}
+
+.div2{
+    border: 1px solid red;
+    background-color: rgb(126, 26, 6);
+    height:600px;
+    width: auto;
+    color: white;
+    background-image: url(img.book/img\ sr.png),url(img.book/img\ dr.png),url(img.book/img\ srd.png),url(img.book/img\ pic.png),url(img.book/pickacho.png),url(./img.ragavi/steb.png);
+    background-position: left bottom,right bottom,left center,right center,center bottom ,218px 262px;
+    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat,no-repeat;
+    background-size: 200px,200px,150px,150px,400px;
+    
+    
+}
+#para1{
+    font-size: 40px;
+    text-align: center;
+}
+#para2{
+    text-align: center;
+    font-size:20px ;
+} 
+.blog2{
+
+    background-color: chocolate;
+    padding: 8px;
+    text-align: none;
+}
+.blog2:hover{
+    color: white;
+    background-color: yellow;
+}
+.a20{
+    text-decoration-line: none;
+    color: white;
+}
+
+.div3{
+    border: 1px solid red;
+    background-color: rgba(255, 81, 0, 0.918);
+    height: 500px;
+    width: auto;
+    color: white;
+    background-image: url(./img.book/1st.png),url(./img.book/3st.png),url(./img.book/2nd.png);
+    background-repeat:no-repeat, no-repeat, no-repeat;
+    background-size: 500px 80px, 500px 250px, 680px 300px;
+    background-position: right top,right bottom,right bottom;
+    padding: 10%;
+     
+}
+#para3{
+    font-size: 40px;
+    
+    margin: 50px;
+}
+#para4{
+    font-size: 25px;
+
+    margin: 50px;
+}
+.div4{
+    border: 1px solid red;
+    background-color: rgba(89, 20, 4, 0.99);
+    height:500px;
+    width: auto;
+    color: white;
+    background-image: url(./img.book/unnamed.png),url(./img.book/wwww.png);
+    background-position: center right ,right bottom;
+    background-size: 250px 250px,200px 250px;
+    background-repeat: no-repeat,no-repeat;
+    padding-bottom: 5px;
+    padding-left: 5px; 
+    padding-right: 5px;
+}
+#para5{
+    font-size: 40px;
+}
+#para6{
+    font-size: 20px;
+}
+.div5{
+    border: 1px solid red;
+    background-color: rgba(4, 67, 75, 0.967);
+    height:500px;
+    width: auto;
+    text-align: center;
+    color: white;
+    background-image: url(img.book/sss.png),url(./img.book/cal.png);
+    background-position: left center ,right bottom;
+    background-size: 400px 400px;
+    background-repeat: no-repeat;
+    padding-left: 25%;
+    
+} 
+#para7{
+    font-size: 40px ;
+}
+#para8{
+    font-size: 25px;
+}
+.div6{
+    border: 1px solid red;
+    background-color: rgba(28, 134, 148, 0.76);
+    height:500px;
+    width: auto;
+    color: white;
+    background-image: url(./img.book/known\ 6.png), url(./img.book/knowm7.png);
+    background-position: right center,right bottom ;
+    background-repeat: no-repeat;
+    background-size: 232px 200px;
+    
+} 
+#para9{
+    font-size: 40px;
+}
+#para10{
+    font-size: 20px;
+}
+.div7{
+    border: 1px solid red;
+    background-color: rgba(255, 85, 0, 0.829);
+    height:500px;
+    width: auto;
+    color: white;
+    background-image: url(./img.cover/vi.png),url(./img.cover/vvvvv.png),url(./img.cover/unnamed.png);
+    background-size: 300px 350px,300px 300px,200px 300px ;
+    background-repeat: no-repeat,no-repeat,no-repeat;
+    background-position: 763px 106px,900px 106px,1093px,90px ;
+} 
+#para11{
+    font-size: 40px;
+}
+#para12{
+    font-size: 20px;
+}
+.div8{
+    border: 1px solid red;
+    background-color: rgb(255, 77, 0);
+    height:500px;
+    width: auto;
+    text-align: center;
+    color: white;
+    background-image: url(./img.cover/millions-markers_2x.png);
+    background-repeat: no-repeat;
+
+    
+} 
+#para13{
+    font-size: 40px;
+}
+#para14{
+    font-size: 20px;
+}
+.blog3{
+    border: 1px solid red;
+padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: rgb(52, 100, 56);
+    text-decoration: none;
+    color: white;
+}
+.blog3:hover{
+    color: black;
+    background-color: blue;
+}
+.a11{
+    color: white;
+    text-decoration-line: none;
+}
+
+.div9{
+    display: flex;
+    gap: 0px;
+    border: 1px solid rgb(29,43,52);
+    width: auto;
+    height: 394px;
+    background-color: rgb(29,43,52);
+}
+.div10,.div11,.div12{
+    border: 1px solid red;
+    border: none;
+    height: 234px;
+    width: 141px;
+    margin-left: 97px;
+    margin-top: 45px;
+    font-weight: 200;
+}
+.help1, .help2, .help4{
+    line-height: 47px;
+    color: white;
+    text-align: left;
+    font-size: 22px;
+}
+.help, .help3, .help5{
+    line-height: 26px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family: "Roboto",sans-serif;
+}
+.a1{
+    text-align: left;
+    font-weight: 100;
+}
+.div13{
+    border: 1px solid red;
+    border: none;
+    height: 50px;
+    width: auto;
+    background-color: rgb(29,43,52);
+    margin-top: 291px;
+    margin-left: -622px;
+    
+}
+.terms{
+    color: white;
+    font-size: 18px;
+    font-weight: lighter;
+    text-decoration: none;
+}
+.drp{
+    width: auto;
+    height: 100px;
+}
+
+#tag{
+    background-color: aliceblue;
+    font: 20px;
+    width: 100px;
+margin-left: 90px;
+margin-top: 190%;
+margin-bottom: 60px;
+}
+#tag:hover{
+background-color: black;
+color: white;
+}
